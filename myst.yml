@@ -1,0 +1,23 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: bf6a6857-2167-4a91-9edb-338acbfa63cf
+  title: A guide to antibody-based spatial proteomics analysis
+  description: This book provides a comprehensive overview of steps commonly employed in the analysis of antibody-based spatial proteomics data.
+  keywords: [spatial proteomics, imaging, multiplexed, antibody-based, data analysis, guide, scverse]
+  authors: [Matthias Meyer-Bender, Malte Kuehl, Sergio Marco-Salas]
+  github: https://github.com/scverse/antibody-based-spatial-proteomics-guide
+  toc:
+    - file: chapters/introduction.md
+    - file: chapters/technologies.md
+    - file: chapters/data_formats.md
+    - file: chapters/image_correction.md
+    - file: chapters/segmentation.md
+    - file: chapters/aggregation.md
+    - file: chapters/normalization.md
+    - file: chapters/cell_type_assignment.md
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png

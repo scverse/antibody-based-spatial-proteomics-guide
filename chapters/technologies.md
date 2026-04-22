@@ -1,0 +1,11 @@
+# Technologies
+- Cyclic Immunohistochemistry (MICCS)
+- Fluorescence-based: 
+    - MIF (multiplex immunofluorescence)
+    - CODEX (co-detection by indexing)
+    - DSP (digital spatial profiling)
+    - CosMx
+    - CyCIF (cyclic immunofluorescence)
+    - 4i (iterative indirect immunoflurorescence imaging)
+    - Chip Cytometry
+- Sequencing-based: spatial CITE-seq 
